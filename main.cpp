@@ -1,4 +1,4 @@
-// Small program to update data for hexadecimal addresses.
+// Small program to update data for memory addresses.
 // ovh.feminine216@passinbox.com
 
 #include <windows.h>
